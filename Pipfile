@@ -14,4 +14,5 @@ pylint = "*"
 python_version = "3.9"
 
 [pipenv]
+# Black isnt officially released yet (lol) so need this
 allow_prereleases = true
